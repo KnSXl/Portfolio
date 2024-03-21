@@ -24,7 +24,7 @@ export default {
                     "imagemDoProjeto": "../assets/images/IPHONESTORE.png",
                     "tituloDoProjeto": "iPhones Store",
                     "descricaoDoProjeto": "Meu primeiro serviço como desenvolvedor. O cliente queria uma loja para vender seus produtos. Não precisava ser algo complexo, mas mesmo assim, dei o meu melhor para atender ao propósito dele e proporcionar uma boa experiência para seus clientes. Feito com React Native, esse foi o resultado.",
-                    "linkDoProjeto": "https://iphonesstore.vercel.app/"
+                    "linkDoProjeto": "https://iphonesstore.com.br/"
 
                 },
                 {
